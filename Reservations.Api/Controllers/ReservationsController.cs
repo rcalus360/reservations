@@ -2,7 +2,6 @@
 {
     using System;
     using System.Collections.Generic;
-    using System.Web.Http;
 
     using Reservations.Data.Models;
 
